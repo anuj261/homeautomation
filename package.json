@@ -1,0 +1,37 @@
+{
+  "name": "devicesapi",
+  "version": "1.0.0",
+  "description": "Node.js API's for smart devices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuj261/devicesApi.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "apis"
+  ],
+  "author": "Anuj Jain <anuj26.hi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "fs-extra": "8.1.0",
+    "helmet": "3.20.0",
+    "lodash": "4.17.15",
+    "mongo-uri-builder": "2.0.0",
+    "mongoose": "5.6.3",
+    "uuid": "3.3.2",
+    "validate": "3.0.1",
+    "validator": "11.1.0",
+    "winston": "3.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/anuj261/devicesApi/issues"
+  },
+  "homepage": "https://github.com/anuj261/devicesApi#readme"
+}
